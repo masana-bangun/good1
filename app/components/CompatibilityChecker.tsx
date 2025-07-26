@@ -26,7 +26,6 @@ import {
 } from "../utils/numerologyUtils";
 import { useTranslation } from "./MainApp";
 import NumerologyResults from "./NumerologyResults";
-
 // Grafologi helper data and functions
 const vlookupTable: Record<number, { id: string; en: string }> = {
   1: {
